@@ -1,4 +1,4 @@
-Free---Open-Source-Software--FOSS---Managing-Business
+Free & Open Source Software(FOSS): Managing Business
 =====================================================
 
 The objectives of the course are as proposed:
@@ -24,6 +24,7 @@ Case Studies: Drupal, Joomla, Pentaho, Apache Foundation, Ubuntu, FOSS Manuals
 
 Unit 3: Patents, Licenses & Copyright
 What is a License; Copyright & Copyleft; Major Licenses – GPL, LGPL, MIT, BSD, Mozilla, Apache,  GFDL, Creative Commons; Public Domain; How are licenses applied; Ownership of IP; Forking Open Source projects; Violation of copyrights and remedies; Using Open Source projects in Businesses and Implications; Software Patents; Shared Source vs Open Source.
+
 Excellent reference: http://www.softwarefreedom.org/resources/
 
 Unit 4: Business Models with FOSS
@@ -31,9 +32,7 @@ Popular Business Models: Training & Support, Subscription and Value Added Servic
 Case Studies: Redhat, CentOS, Canonical, Oracle, IBM
 
 Unit 5: The Open Ecosystem
-Open Formats; Open Standards; Open Hardware; Open Design; Open Access; Open Content;
-Open Design; Open Innovation; Open Web; Micro­formats; Open ID & oAuth; Ubuntu ecosystem
-of developers, supporters  and users.
+Open Formats; Open Standards; Open Hardware; Open Design; Open Access; Open Content; Open Design; Open Innovation; Open Web; Micro­formats; Open ID & oAuth; Ubuntu ecosystem of developers, supporters  and users.
 
 Unit 6: Career Opportunities with FOSS
 Development: Designing, Coding, Testing, Release Management; Language: Documentation,Localisation, Internationalisation; Marketing & Promotion: Advocacy, Evangelism, Marketing,Events; Help & Support; Skill & Merit Building; On the Job Experience with FOSS; Google Summer of Code
